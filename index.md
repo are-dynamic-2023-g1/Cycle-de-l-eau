@@ -6,7 +6,7 @@ Our project is based on the study of the water cycle. By studying its variation 
 
 ## Présentation de l'équipe
 
-|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
+|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | :) |
 |-----|--|--|--|
 | J.Gueneau| E.Mcirdi | J.sahie  | I.ojkjkeza  |
 
