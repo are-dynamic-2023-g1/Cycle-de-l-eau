@@ -8,7 +8,7 @@ Our project is based on the study of the water cycle. By studying its variation 
 
 |(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
 |-----|--|--|--|
-| P. Bismuth| J. Doe | A. Onyme  | N. Nescio  |
+| J.Gueneau| E.Mcirdi | J.sahie  | I.ojkjkeza  |
 
 
 ## Description synthétique du projet
