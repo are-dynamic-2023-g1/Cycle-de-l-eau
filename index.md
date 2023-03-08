@@ -16,12 +16,17 @@ Our project is based on the study of the water cycle. By studying its variation 
 **Problématique :** 
 
 **Hypothèse principale :**
+Le cycle de l'eau si il est respecté peut nous fournir de l'eau pendant encore de nombreuses années voir indéfiniment 
 
 **Hypothèses secondaires :** 
+Le réchauffement climatique et la polution vont influancer le cycle de l'eau  / La salinité de l'eau évolue selon la polution 
 
 **Objectifs :**
+Réussir à expliquer simplement le cycle de l'eau à travers le site que nous allons faire  
 
 **Critère(s) d'évaluation :**
+Réussir à partagées  les données que nous avons trouvées à travers notre page Github
+Montrer le fonctionnment exa
 
 ## Présentation structurée des résultats
 
