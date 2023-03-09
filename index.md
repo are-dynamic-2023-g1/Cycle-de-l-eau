@@ -17,17 +17,24 @@ Our project is based on the study of the water cycle. By studying its variation 
 En quoi le cycle de l'eau influt t'il notre environnement ?
 
 **Hypothèse principale :**
-Le cycle de l'eau si il est respecté peut nous fournir de l'eau pendant encore de nombreuses années voir indéfiniment 
+Le cycle de l'eau s'il est respecté peut nous fournir de l'eau pendant encore de nombreuses années voir indéfiniment 
 
 **Hypothèses secondaires :** 
-Le réchauffement climatique et la polution vont influancer le cycle de l'eau  / La salinité de l'eau évolue selon la polution 
+Le cycle de l'eau peut  être perturbé en bien comme en mal  par certaines actions de l'Homme 
 
 **Objectifs :**
-Réussir à expliquer simplement le cycle de l'eau à travers le site que nous allons faire  
+Réussir à expliquer simplement et Montrer à travers un site internet interactif  le fonctionnement,les différentes étapes, mais également certains facteurs extérieurs comme les actions de l'homme etc.
 
 **Critère(s) d'évaluation :**
-Réussir à partagées  les données que nous avons trouvées à travers notre page Github
-Montrer le fonctionnment exa
+-> Proposer un site interactif 
+
+-> Montrer un visuel proche de la réalité 
+
+-> Confirmer ou décrédibiliser  nos hypothèses 
+
+-> Réussir Notre analyse technique 
+
+-> Faire un bon oral pour cloturer le projet 
 
 ## Présentation structurée des résultats
 
