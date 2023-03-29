@@ -8,7 +8,7 @@ Our project is based on the study of the water cycle. By studying its variation 
 
 |(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | :) |
 |-----|--|--|--|
-| J.Gueneau| E.Mcirdi | J.sahie  | I.ojkjkeza  |
+| J.Gueneau| E.Mcirdi | J.sahie  | Itokiana  |
 
 
 ## Description synthétique du projet
