@@ -9,6 +9,6 @@ Remplissage du doc index.md -> Projet , Présentation de l'équipe , Problémati
 ### Semaine 2 
 Remplissage de la carte mentale + Recherche d'iddées et de Solutions , Créations d'un schéma + une carte 
 ### Semaine 3
-### ...
+Nous avons commencé à faire une matrice sur spyder sur la dynamique de l'eau influencé par la polution. 
 
 <a href="index.html"> Retour à la page principale </a>
