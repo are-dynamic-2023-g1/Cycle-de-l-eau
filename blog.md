@@ -20,5 +20,15 @@ On va avoir une salité de base dans la matrice qui sera influencé par de base 
 
 On aura alors une matrice, le résultat final sera le taux de salinité de par exemple 1 semaine de dynamique de ce cycle. 
 
+### Semaine 5
+Programation en Python sur Spyder du modèle sur la base des 5 facteurs 
+-Température
+-Précipitation
+-Proximité d'une riviere 
+-Pollution 
+-Salinité 
+
+Préparation de la présentation pour la présentation orale de la semaine 6 
+
 
 <a href="index.html"> Retour à la page principale </a>
