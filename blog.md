@@ -1,6 +1,6 @@
 ## Travail effectué 
 
-=> Description hebdomadaire du travail effectué (variez les auteurs !)
+=> Description hebdomadaire du travail effectué 
 
 ### Semaine 1 
 Remplissage du doc index.md -> Projet , Présentation de l'équipe , Problématique,Hypothèse principale , Hypothèses secondaires , Objectifs , Critère(s) d'évaluation , Bibliographie.
