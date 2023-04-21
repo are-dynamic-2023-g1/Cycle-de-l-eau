@@ -35,8 +35,9 @@ Réussir à expliquer simplement et montrer à travers un modèle simple, les di
 ## Modèle :
 Notre modèle a pour but de montrer comment différents facteurs peuvent affecter la viabilité de l'eau dans un écosystème donné. Pour cela nous créer un monde virtuel grâce à Python qui sera composées de nombreuses cellules, faisant base de représentation de l’eau, celles-ci seront colorées de 2 couleurs principaux pour démontrer la viabilité, ainsi : 
 
-Rouge : Eau Non vivable
-Vert : Eau Vivable  
+- Rouge : Eau Non vivable
+
+- Vert : Eau Vivable  
 
 La viabilité sera influencé dans notre modèle par  3 facteurs :
 -Température 
