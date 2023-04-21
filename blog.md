@@ -32,6 +32,8 @@ Au cours de la quatrième semaine, nous avons vraiment abordé la première part
 ### Semaine 5
 
 La cinquième semaine, nous avons affiné la grille de cellules en ajustant les valeurs de température, de précipitation et de la position de la rivière de manière aléatoire. Ensuite, nous avons recalculé la vivabilité de chaque cellule et affiché le résultat dans un graphique. Nous avons instauré la dynamique dans notre modèle nous avons répété le processus d'ajustement des valeurs de température, de précipitation et de la position de la rivière, mais cette fois-ci en itérant sur chaque jour de la semaine et en l’élargissant dans une durée de 7 jours. 
+![image](https://user-images.githubusercontent.com/125458910/233640363-dc3a9fd7-0fe6-4b1c-934d-3bf7b8cb998b.png)
+
 
 ## Semaine 6
 Nous avons finalisé notre dossier en y incluant toutes les informations pertinentes et en nous assurant que tout était clair et cohérent. Nous avons également finalisé nos diapositives et nous avons continué à nous entraîner pour notre présentation orale. La sixième semaine, Nous avons également affiché le résultat pour chaque jour dans un graphique différent. + Finalisation du dossier, Diapo + Préparation de l’oral.
