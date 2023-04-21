@@ -4,6 +4,7 @@
 
 ### Semaine 1 
 Remplissage du doc index.md -> Projet , Présentation de l'équipe , Problématique,Hypothèse principale , Hypothèses secondaires , Objectifs , Critère(s) d'évaluation , Bibliographie.
+
 Au cours de la première semaine, nous avons exploré une variété de sujets que nous pensions possibles avec une approche dynamique. Enfin, nous avons choisi la dynamique du cycle de l'eau comme sujet principal du projet parce qu'il est facile à comprendre et à expliquer et qu'il est pertinent par rapport aux problèmes actuels tels que le réchauffement climatique et l'effet de serre. Notre intention initiale était de créer un site Web interactif basé sur le système d'échantillonnage dynamique, mais cela s'est avéré trop compliqué. Nous avons donc créé une carte mentale reliant tous les facteurs et tous les problèmes liés au cycle de l'eau, qu'ils soient dus à l'action humaine ou à des phénomènes naturels pour poser une bonne base pour le modèle. Cette carte mentale relie tous les facteurs qui affectent directement ou indirectement le cycle de l'eau, qu'il s'agisse d'actions humaines ou de phénomènes naturels. 
 
 
@@ -36,7 +37,7 @@ La cinquième semaine, nous avons affiné la grille de cellules en ajustant les 
 
 
 ## Semaine 6
-Nous avons finalisé notre dossier en y incluant toutes les informations pertinentes et en nous assurant que tout était clair et cohérent. Nous avons également finalisé nos diapositives et nous avons continué à nous entraîner pour notre présentation orale. La sixième semaine, Nous avons également affiché le résultat pour chaque jour dans un graphique différent. + Finalisation du dossier, Diapo + Préparation de l’oral.
+Nous avons finalisé notre dossier en y incluant toutes les informations pertinentes et en nous assurant que tout était clair et cohérent. Nous avons également finalisé nos diapositives et nous avons continué à nous entraîner pour notre présentation orale. + Finalisation du dossier, Diapo + Préparation de l’oral.
 
 
 
