@@ -8,6 +8,8 @@ Our project is based on the study of the water cycle. By studying its variation 
 
 Le cycle de l'eau est un processus naturel qui se produit sur Terre et qui implique l'évaporation de l'eau des océans, des rivières et des lacs, qui se transforme en vapeur d'eau pour finalement produire de la pluie, de la neige ou d'autres formes de précipitations. L'eau qui tombe sur la terre s'infiltre dans le sol ou retourne dans les océans, les rivières et les lacs, où elle peut être utilisée par les plantes, les animaux et les êtres humains. Le cycle de l'eau est un processus continu et vital pour la vie sur Terre. Dans notre modélisation, nous nous intéresserons sur la viabilité de l’eau et d’expliquer les différents facteurs qui modifient la dynamique de l’eau
 
+![image](https://user-images.githubusercontent.com/125458910/233639121-37499bbf-42df-4153-96ec-f7acb25dd636.png)
+
 
 ## Présentation de l'équipe
 
