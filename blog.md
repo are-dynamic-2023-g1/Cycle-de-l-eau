@@ -27,6 +27,7 @@ Semaine aussi de la recherche carnet de bord recherche documentaire : Notre trav
 ### Semaine 4 
 
 Au cours de la quatrième semaine, nous avons vraiment abordé la première partie du code. Nous nous sommes consacrer à créer notre monde virtuel représenté par une grille de cellules. Nous avons mis les valeurs de températures minimales et températures maximales, nous avons aussi introduits la liste de pourcentage des précipitations ainsi que les listes booléennes des précipitations. Puis nous avons créé une grille qui est remplie aléatoirement avec des valeurs entre 0 et 100. Ensuite, nous avons créé un deuxième tableau, également de 20x20 cellules, pour représenter la viabilité de chaque cellule. Si une cellule avait une valeur entre la température minimale et maximale souhaitée, elle était considérée comme vivable, sinon elle était considérée comme non-viable. Les cellules avec des précipitations hors de la plage souhaitée ou celles qui étaient situées à proximité de la rivière (dans une certaine plage) ont également été considérées comme non-viables.
+![image](https://user-images.githubusercontent.com/125458910/233639625-313cc3f5-3a94-4a58-9b53-01a201f4e259.png)
 
 ### Semaine 5
 
